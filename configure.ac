@@ -1,3 +1,5 @@
+gen = 1
+genproclimit = -1
 dnl require autoconf 2.60 (AS_ECHO/AS_ECHO_N)
 AC_PREREQ([2.60])
 define(_CLIENT_VERSION_MAJOR, 2)
